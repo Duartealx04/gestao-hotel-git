@@ -1,3 +1,4 @@
+# Funcionalidade de gestão de clientes
 clientes = []
 
 def adicionar_cliente(nome):
