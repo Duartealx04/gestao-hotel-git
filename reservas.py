@@ -1,3 +1,4 @@
+# Funcionalidade de gestão de reservas
 reservas = []
 
 def criar_reserva(cliente, quarto):
